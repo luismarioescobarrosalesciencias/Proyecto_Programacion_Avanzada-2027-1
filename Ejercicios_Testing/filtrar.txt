@@ -1,0 +1,9 @@
+hola mundo 01
+hola mundo 02
+
+escribiendo linea 1
+escribiendo linea 2 
+
+
+imprimiendo linea 12 
+imprimindo linea 873
